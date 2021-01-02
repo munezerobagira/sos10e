@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 <!--
-**sos10e/sos10e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ welcome I am happy to see you ✨.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on brighteye
 - 🌱 I’m currently learning python
