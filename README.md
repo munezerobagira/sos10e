@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### whois Sostene
+Sostene is Fullstack developer based in Rwanda, he loves codes, Mathematics and games.
+[![Sos10e's github stats](https://github-readme-stats.vercel.app/api?username=sos10e)](https://github.com/sos10e/github-readme-stats)
