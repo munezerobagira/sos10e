@@ -1,8 +1,5 @@
+[![Whois Sost10e](https://pbs.twimg.com/profile_banners/953537652200017920/1609784220/1500x500)](https://www.youtube.com/c/whoisSostene)
 ### Hi there 👋
-
-<!--
-**** is a ✨ welcome I am happy to see you ✨.
--->
 
 - 🔭 I’m currently working on brighteye
 - 🌱 I’m currently learning python
@@ -16,6 +13,6 @@
 Sostene is Fullstack developer based in Rwanda, he loves codes, Mathematics and games.
 
 Connect with me on
-[![Whois Sost10e](https://pbs.twimg.com/profile_banners/953537652200017920/1609784220/1500x500)](https://www.youtube.com/c/whoisSostene)
+
 
 [![Sos10e's github stats](https://github-readme-stats.vercel.app/api?username=sos10e)](https://github.com/sos10e/github-readme-stats)
