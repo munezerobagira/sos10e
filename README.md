@@ -15,4 +15,4 @@ Sostene is Fullstack developer based in Rwanda, he loves codes, Mathematics and 
 Connect with me on
 
 
-[![Sos10e's github stats](https://github-readme-stats.vercel.app/api?username=sos10e)](https://github.com/sos10e/github-readme-stats)
+[![Sos10e's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sos10e)](https://github.com/sos10e)
